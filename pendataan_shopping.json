@@ -132,7 +132,7 @@
     },
     {
       "parameters": {
-        "url": "=https://api.telegram.org/file/bot8057435818:AAF3eZIJnlgsrUtgYN7WxC8dcvTXEAXnErQ/{{ $json.result.file_path }}",
+        "url": "=https://api.telegram.org/file/bot[YOUR BOT TOKEN]/{{ $json.result.file_path }}",
         "options": {}
       },
       "type": "n8n-nodes-base.httpRequest",
