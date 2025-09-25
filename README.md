@@ -58,5 +58,3 @@ MIT License. Bebas digunakan dan dimodifikasi untuk keperluan pribadi maupun kom
 ---
 
 > Dibuat dengan semangat otomasi dan edukasi oleh [ridwaanhall](https://github.com/ridwaanhall) — mendukung komunitas developer Indonesia untuk membangun solusi cerdas dan berdampak.
-
-```
