@@ -1,4 +1,4 @@
-# 🧾 n8n-pendataan-shopping
+# 🧾 n8n Pendataan Shopping
 
 Bot pencatatan keuangan pribadi berbasis **n8n** dan **AI**, dirancang untuk memudahkan pengguna mencatat pengeluaran secara otomatis tanpa perlu coding rumit. Cocok untuk pemula, kreator, dan siapa pun yang ingin mengelola keuangan dengan cara yang efisien dan modern.
 
